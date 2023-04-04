@@ -7,7 +7,7 @@
 
 ![Untitled](img/Untitled.png)
 
-1. Crie uma API com base no Diagrama de Classes a seguir. Permitindo a criação de um Usuário de um sistema, o sistema deve realizar o CRUD do Usuário e permitir o cadastramento de uma imagem que ficará salva na API. (o atributo imagem recebe a rota onde a imagem ficará localizada, mas o arquivo da imagem em si também deve ser salva pela API)
+5. Crie uma API com base no Diagrama de Classes a seguir. Permitindo a criação de um Usuário de um sistema, o sistema deve realizar o CRUD do Usuário e permitir o cadastramento de uma imagem que ficará salva na API. (o atributo imagem recebe a rota onde a imagem ficará localizada, mas o arquivo da imagem em si também deve ser salva pela API)
     
     Sugestão de leitura:
     
